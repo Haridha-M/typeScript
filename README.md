@@ -1,1 +1,2 @@
-# typeScript
+# **typeScript**
+type annotations
